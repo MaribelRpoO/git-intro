@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Restrepo
+=======
+Crear archivo Restrepo
+>>>>>>> copia1
 
 Linea 1
 Linea 2
